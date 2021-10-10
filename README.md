@@ -1,6 +1,6 @@
 # Team_Pyrolysis
 
-**We aim to reduce the pollution and harms caused by plastic to our environment. We have three main goals:<br><br>
+**We aim to reduce the pollution and harms caused by plastic to our environment. We have three main goals:**<br><br>
 
 1.Reducing plastic dumping in our environment.<br>
 2.Recycling plastic into useful fuels.<br>
